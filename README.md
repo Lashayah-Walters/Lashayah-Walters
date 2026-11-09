@@ -27,4 +27,4 @@
 
 ---
 
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com) · `lw3960a@gre.ac.uk`
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com)  `lw3960a@gre.ac.uk` 'lashayahwalters@gmail.com'

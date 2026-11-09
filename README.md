@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hiya, I'm Lashayah! <3
 
-<!--
-**Lashayah-Walters/Lashayah-Walters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computing Student** @ University of Greenwich  
+💻 **Passionate About:** Web Development · Game Dev · Relational Databases · Cybersecurity  
+🌐 **Live Portfolio:** [lashayah-walters.github.io/portfolio-website](https://lashayah-walters.github.io/portfolio-website/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- 👩‍💻 Studying Computer Science with a focus on web design and database architecture.
+- 🎮 Long-time interest in **game development** — experienced in story/logic scripting (Episode) & building interactive worlds in **Roblox Studio**!
+- 🎨 Love combining clean code with aesthetic design, user experience, and visual storytelling.
+- 📚 Currently working through Year 2 projects & expanding my portfolio.
+
+---
+
+### 🛠️ Tech Stack & Creative Skills
+
+**Languages & Web:**  
+`HTML5` · `CSS3` · `JavaScript` · `SQL`
+
+**Databases & Tools:**  
+`MySQL / MariaDB` · `phpMyAdmin` · `Git & GitHub` · `VS Code`
+
+**Creative & Scripting:**  
+`Roblox Studio / Lua` · `Episode Interactive Scripting` · `UI/UX Design`
+
+---
+
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com) · `lw3960a@gre.ac.uk`

@@ -20,11 +20,11 @@
 `HTML5` · `CSS3` · `JavaScript` · `SQL`
 
 **Databases & Tools:**  
-`MySQL / MariaDB` · `phpMyAdmin` · `Git & GitHub` · `VS Code`
+`mySQL / MariaDB` · `phpMyAdmin` · `Git & GitHub` · `VS Code`
 
 **Creative & Scripting:**  
 `Roblox Studio / Lua` · `Episode Interactive Scripting` · `UI/UX Design`
 
 ---
 
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com)  `lw3960a@gre.ac.uk` 'lashayahwalters@gmail.com'
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com)  'lw3960a@gre.ac.uk' 'lashayahwalters@gmail.com'

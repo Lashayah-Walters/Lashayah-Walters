@@ -1,6 +1,6 @@
 ## Hiya, I'm Lashayah! <3
 
-**Computing Student** @ University of Greenwich  
+❃ **Computing Student** @ University of Greenwich  
 **Passionate About:** Web Development · Game Dev · Relational Databases · Cybersecurity  
 **Live Portfolio:** [lashayah-walters.github.io/portfolio-website](https://lashayah-walters.github.io/portfolio-website/)
 
